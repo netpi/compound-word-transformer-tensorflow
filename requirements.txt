@@ -1,0 +1,5 @@
+miditok==1.1.4
+miditoolkit==0.1.15
+numpy==1.20.3
+tensorflow_probability==0.14.1
+tqdm==4.55.1
