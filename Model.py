@@ -639,8 +639,6 @@ class TransformerXL(tf.keras.Model):
 
         return enc_padding_mask, look_ahead_mask, dec_padding_mask
 
-# LinearTransformerXL
-
 
 class LinearTransformerXL(tf.keras.Model):
     def __init__(self, vocab_sizes, emb_sizes, num_layers, d_model, num_heads, dff,
