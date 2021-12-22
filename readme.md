@@ -1,12 +1,11 @@
 ## compound-word-transformer-tensorflow
 
 
-![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/m5fng.png)
-
+[![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/m5fng.png)](https://eurychen.me/post/music/ai-music/1/)
 
 
 * 以下文章详细说明了实现过程了，并有完整的音频视频体验，推荐 Wechat 扫码阅读：
-![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/3993k.png)
+<img src'https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/3993k.png' style='max-width:600px'/>
 
 
 
