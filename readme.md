@@ -15,4 +15,5 @@
 * 相关论文:
   * [Music Transformer]( https://arxiv.org/abs/1809.04281)
   * [Compound Word Transformer](https://arxiv.org/abs/2101.02402)
-
+## AI 音乐 TG Group
+  * https://t.me/sound_and_music_computing
