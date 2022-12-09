@@ -10,9 +10,11 @@
 ### 生成的旋律:
   * [在博客中查看](https://eurychen.me/post/music/ai-compose-music/)
   * [在 QQ 音乐中查看](https://i.y.qq.com/n2/m/share/details/album.html?albummid=001cIqFi422iAM)
-### Demo:
-  * [Colab Inference Demo to generate MIDI with ckpt28500](https://colab.research.google.com/drive/1-r5IpQgOoZgkOGof8EdjBkQzb6H6e64J?usp=sharing)
-  * [Colab Train Demo](https://colab.research.google.com/drive/1M4-dW3PXrr8BUynejLHiZIbIV7XdpN9I?usp=sharing)
+### Demo
+
+  * [![Colab Inference Demo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-r5IpQgOoZgkOGof8EdjBkQzb6H6e64J?usp=sharing) Inference Demo
+  * [![Colab Train Demo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M4-dW3PXrr8BUynejLHiZIbIV7XdpN9I?usp=sharing) Train Demo
+  
   * [Local Train Demo](https://github.com/netpi/compound-word-transformer-tensorflow/blob/master/demo.ipynb)
 ### 相关论文|Paper (arXiv):
   * [Music Transformer]( https://arxiv.org/abs/1809.04281)
